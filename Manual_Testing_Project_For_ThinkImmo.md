@@ -46,7 +46,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 <h4> 1.1.2 Entry criteria defined </h4>
 
 Roles needed for the project are allocated.
-Functional specifications are defined.
+*Functional specifications are defined.
 
 **(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
 
