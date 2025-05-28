@@ -9,8 +9,11 @@ Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the RealEstatePro/ThinkImmo module, for which the final project is performed upon.
+The below stories **(daca aveti mai multe scrieti stories**) were created in Jira and describes the functional specifications of the RealEstatePro/ThinkImmo module, for which the final project is performed upon.
 
+![image](https://github.com/user-attachments/assets/cbc3dbd9-0cab-43ad-8384-94c65ee02216)
+
+![image](https://github.com/user-attachments/assets/fa9ba52f-a899-4be7-8570-ccf43f81e87f)
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
