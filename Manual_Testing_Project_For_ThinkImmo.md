@@ -36,17 +36,23 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 **(numele persoanelor pot sa fie fictive, doar sa treceti numele vostru ca si tester)**
 <ul>
-  <li>Project manager</li> 
-  <li>Product owner</li>
-  <li>Software developer</li>
-  <li>QA Engineer</li>
+  <li>Gina Burcea - Project manager</li> 
+  <li>Adriana Truckenbrodt - Tester</li> 
+  <li>Denisa Hodisan - Product owner</li>
+  <li>Adriana Pauna - Software developer</li>
+  <li>Trif Cristian - QA Engineer</li>
 </ul>
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
+Roles needed for the project are allocated.
+Functional specifications are defined
+
 **(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
 
 <h4> 1.1.3 Exit criteria defined </h4>
+
+
 
 **(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
 
