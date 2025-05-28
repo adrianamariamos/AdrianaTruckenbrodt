@@ -45,15 +45,16 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-" "Roles needed for the project are allocated. 
-
-" "Functional specifications are defined.
+- Roles needed for the project are allocated.
+- Functional specifications are defined.
 
 **(enumerati aici toate criteriile de intrare pe care le-ati definit pentru proiectul vostru)**
 
 <h4> 1.1.3 Exit criteria defined </h4>
 
-- 
+- 90% of tests passed
+- provide confirmation message for succesful registration
+- provide a deteiles record of the test and the obtained results
 
 **(enumerati aici toate criteriile de iesire pe care le-ati definit pentru proiectul vostru)**
 
