@@ -3,16 +3,19 @@
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application
 
 Application under test: ThinkImmo https://thinkimmo.com/login
+ThinkImmo provides an immobilien platform for its customers and the project aims to raise the truts in the qality of the informations as high as possible before releasing it to the customers.
 
 Tools used: Jira, Zephyr Squad.
 
 <h2>Functional specifications:</h2>
 
-The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the "**nume_modul**" module, for which the final project is performed upon.
+The below story **(daca aveti mai multe scrieti stories**) was created in Jira and describes the functional specifications of the RealEstatePro/ThinkImmo module, for which the final project is performed upon.
+
 
 **inserati aici fie poza cu story-ul / story-urile daca aveti mai putine, dar daca aveti mai mult de doua recomand sa descarcati story-urile din jira si sa le incarcati ca fisier**
 
 Here you can find the release that was created for this project:
+![image](https://github.com/user-attachments/assets/9d315213-192b-4099-90f1-e80a6cca635f)
 
 **(inserati aici o poza cu release-ul pe care l-ati creat in jira. Atentie, release-ul nu va contine si teste, ci doar epic-uri, story-uri, task-uri, subtaskuri si bug-uri)**
 
